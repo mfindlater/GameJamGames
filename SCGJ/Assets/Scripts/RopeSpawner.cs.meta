@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2f8e0a875844d1a4db7e101279ade542
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ropeEndObject: {instanceID: 0}
+  - ropeMidObject: {instanceID: 0}
+  - ropeStartObject: {instanceID: 0}
+  - currentPlayer: {instanceID: 0}
+  - ropeSnapParticle: {fileID: 100000, guid: 83fca155ff641084e8219b3263aaab9d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

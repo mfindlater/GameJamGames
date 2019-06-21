@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CuttlefishAnimController
+  m_Controller: {fileID: 9100000, guid: f7beb3dc4b4b3a3459ed4a043d2fd1a8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: db94777e334655b4faa21aafa9fe8d67, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f977379ed4240a64b87c7bbf917a4581, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 136d356890d29b744b87c84c80ad4b39, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 56b099ff1c7fd6245bcccab3d493bd16, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7feca1bcccf53124b9adf19d26df3248, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5ba705168c797cd4098d3e51e20194c3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e06968fc7f22521459a821ba38a3cf30, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3717c6f5a6296240939d6da7330fb27, type: 2}

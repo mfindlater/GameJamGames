@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f5c6392e9377d1e43b9cc280e7af5637
+timeCreated: 1485020175
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Picory-Smooth
+  fontNames:
+  - Picory-Smooth
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,41 @@
+
+READ ME!
+========
+
+Story:
+-----
+Control the spirit incarnate of William "Billy" Penn. His wrath has been summoned by the ever-encroaching presence of modern commercialism, threatening to destroy his legacy.
+
+That and something about a curse on Philly if someone builds above his head.
+
+Your job: DECONSTRUCT PHILLY!
+
+
+Goal:
+----
+You are in a race to reap your revenge! Destroy the growing buildings by damaging both sides of a structure. 
+
+During the night buildings slowly grow, but during the day they will grow quickly!
+
+Avoid falling to the streets below as it delays your rampage while you climb back to the top of City Hall. 
+
+If a building passes your hat line you'll lose points and if a building passes the top of the screen all hope is lost!
+
+
+
+Controls:
+--------
+ - Arrow keys (or WASD) are for moving left, right, up, and down.
+ - Spacebar is for jumping
+ - X or J is attack
+
+
+
+Resolution:
+-----------
+
+Optimal Resolution: 1920 x 1080
+Acceptable Resolution: 16 x 9
+
+
+

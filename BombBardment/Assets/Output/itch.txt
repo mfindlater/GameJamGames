@@ -1,0 +1,4 @@
+[[actions]]
+name = "play"
+path = "Bomb-Bardment.exe"
+sandbox = true

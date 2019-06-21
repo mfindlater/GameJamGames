@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3840c28c97ed6314e80c002017d23a3f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthFrame: {fileID: 2800000, guid: e99dc5c349097dc4cb50791eed415091, type: 3}
+  - healthBar: {fileID: 2800000, guid: 1dcd22d4804b5db4998120d3287e2b81, type: 3}
+  - bulletFull: {fileID: 2800000, guid: 86749a586e3e17c4a86980f2ef57ee91, type: 3}
+  - bulletEmpty: {instanceID: 0}
+  - dollarSign: {fileID: 2800000, guid: da3bb6694cbbf3c489948af90cf640bd, type: 3}
+  - scoreSkin: {fileID: 11400000, guid: 44682911f8214b74cac66aebc2f40d1d, type: 2}
+  - gravZero: {fileID: 2800000, guid: 6967824b54461104685c83b24f72a468, type: 3}
+  - gravLow: {fileID: 2800000, guid: 314d1769a6c2b744fac72b308838c8a0, type: 3}
+  - gravNormal: {fileID: 2800000, guid: 197fcba0f07c8f84ca2cc41d47c07c39, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
